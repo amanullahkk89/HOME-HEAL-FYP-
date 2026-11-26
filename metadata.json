@@ -1,0 +1,6 @@
+{
+  "name": "HomeHeal — East-City Hospital",
+  "description": "Smart Home Healthcare Assistance System for East-City Hospital featuring role-based patient, nurse, doctor, and admin workflows, Haversine nurse matching, real-time Socket.IO tracking, Google Maps routing, and bilingual English/Urdu/Roman Urdu AI guidance.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
